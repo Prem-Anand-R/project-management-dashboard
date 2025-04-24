@@ -4,7 +4,8 @@ A modern, feature-rich project management dashboard built with React, TypeScript
 
 ![Dashboard Preview](https://project-management-dashboard-beta.vercel.app)
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/79301c63-110a-4709-a82a-55ef34fe35af)
+
 
 ## 🌟 Features
 
@@ -14,7 +15,8 @@ A modern, feature-rich project management dashboard built with React, TypeScript
   - Assign team members to projects
   - Project status monitoring
 
-  ![alt text](image-1.png)
+ ![image](https://github.com/user-attachments/assets/356d5d8b-3802-46a2-a6a1-2e7324684d68)
+
 
 - **Task Tracking**
   - Kanban-style task management
@@ -22,7 +24,8 @@ A modern, feature-rich project management dashboard built with React, TypeScript
   - Task assignments and deadlines
   - Reference image attachments
 
-  ![alt text](image-2.png)
+ ![image](https://github.com/user-attachments/assets/793eedfb-72b0-4715-baf7-e169fb3e668c)
+
 
 - **Employee Management**
   - Employee profiles and roles
@@ -30,7 +33,8 @@ A modern, feature-rich project management dashboard built with React, TypeScript
   - Project assignments
   - Workload monitoring
 
-  ![alt text](image-3.png)
+  ![image](https://github.com/user-attachments/assets/84c9a04b-08d1-4b83-bb19-04e6edff1953)
+
 
 - **Real-time Updates**
   - Instant UI updates
