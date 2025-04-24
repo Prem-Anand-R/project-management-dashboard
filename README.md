@@ -2,7 +2,9 @@
 
 A modern, feature-rich project management dashboard built with React, TypeScript, and Vite. This application provides real-time task tracking, employee management, and project oversight capabilities with a sleek, responsive interface.
 
-![Dashboard Preview](public/dashboard-preview.png)
+![Dashboard Preview](https://project-management-dashboard-beta.vercel.app)
+
+![alt text](image.png)
 
 ## 🌟 Features
 
@@ -12,11 +14,15 @@ A modern, feature-rich project management dashboard built with React, TypeScript
   - Assign team members to projects
   - Project status monitoring
 
+  ![alt text](image-1.png)
+
 - **Task Tracking**
   - Kanban-style task management
   - Task status updates (Need To Do, In Progress, Need For Test, Completed, ReOpen)
   - Task assignments and deadlines
   - Reference image attachments
+
+  ![alt text](image-2.png)
 
 - **Employee Management**
   - Employee profiles and roles
@@ -24,10 +30,13 @@ A modern, feature-rich project management dashboard built with React, TypeScript
   - Project assignments
   - Workload monitoring
 
+  ![alt text](image-3.png)
+
 - **Real-time Updates**
   - Instant UI updates
   - Progress tracking
   - Status changes reflection
+
 
 ## 🚀 Technologies
 
@@ -88,31 +97,6 @@ src/
 └── types/             # TypeScript types
 ```
 
-## 🔧 Configuration
-
-### Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-VITE_API_URL=your_api_url
-VITE_API_KEY=your_api_key
-```
-
-### Tailwind Configuration
-
-Customize the `tailwind.config.ts` file for styling preferences:
-
-```typescript
-module.exports = {
-  content: ["./src/**/*.{ts,tsx}"],
-  theme: {
-    extend: {
-      // Your custom theme
-    }
-  }
-}
-```
 
 ## 📱 Responsive Design
 
@@ -129,21 +113,10 @@ module.exports = {
 - Protected routes
 - Secure data storage
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGithub](https://github.com/yourusername)
+- **Prem Anand R** - *Initial work* - [Prem-Anand-R](https://github.com/Prem-Anand-R)
 
 ## 🙏 Acknowledgments
 
@@ -153,9 +126,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@yourdomain.com or join our Slack channel.
+For support, email premanand484@gmail.com.
 
 ---
 
-Made with ❤️ by [Your Name/Company]
+Made with ❤️ by [Prem Anand R/Powersoft]
 
